@@ -51,7 +51,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Camera.cs" />
+     <Compile Include="Assets\Scripts\Esqueleto.cs" />
+     <Compile Include="Assets\Scripts\Flecha.cs" />
+     <Compile Include="Assets\Scripts\IABasica.cs" />
+     <Compile Include="Assets\Scripts\IAEsqueleto.cs" />
+     <Compile Include="Assets\Scripts\IAInimigo.cs" />
+     <Compile Include="Assets\Scripts\Lava.cs" />
+     <Compile Include="Assets\Scripts\Minotauro.cs" />
+     <Compile Include="Assets\Scripts\Plataforma.cs" />
+     <Compile Include="Assets\Scripts\Plataforma2.cs" />
      <Compile Include="Assets\Scripts\Player.cs" />
+     <Compile Include="Assets\Scripts\Slime.cs" />
+     <Compile Include="Assets\Scripts\TrocaCena.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/Users/preto/Documents/Jogo Final/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>

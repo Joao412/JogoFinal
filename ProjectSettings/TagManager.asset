@@ -6,6 +6,16 @@ TagManager:
   tags:
   - Flecha
   - Chao
+  - PlataformaMovel
+  - agua
+  - Agua
+  - Inimigo
+  - Lava
+  - Pedra
+  - Caixa
+  - Esqueleto
+  - Slime
+  - Minotauro
   layers:
   - Default
   - TransparentFX
@@ -16,7 +26,7 @@ TagManager:
   - 
   - 
   - Chao
-  - 
+  - Agua
   - 
   - 
   - 
@@ -42,4 +52,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Lava
+    uniqueID: 2500980947
+    locked: 0
+  - name: Chao
+    uniqueID: 3452340481
     locked: 0
