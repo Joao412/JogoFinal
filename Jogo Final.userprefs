@@ -7,7 +7,7 @@
       <File FileName="Assets\Scripts\Plataforma.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Lava.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\Flecha.cs" Line="70" Column="14" />
-      <File FileName="Assets\Scripts\IABasica.cs" Line="26" Column="27" />
+      <File FileName="Assets\Scripts\IABasica.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\IAEsqueleto.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
